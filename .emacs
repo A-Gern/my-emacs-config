@@ -80,7 +80,6 @@
 (ido-ubiquitous-mode 1)
 (ido-grid-mode 1)
 (anzu-mode 1)
-(require 'doc-view)
 ;; 					;(auto-complete-mode 1)
 ;; ;;(require 'key-chord)
 ;; ;; (ivy-mode 1)
